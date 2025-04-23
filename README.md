@@ -79,10 +79,6 @@ Performed in `Code.ipynb`. Includes:
    ```
 2. Create a Python environment and install dependencies:
    ```bash
-   pip install -r requirements.txt
-   ```
-   *If `requirements.txt` is not provided, install manually:*
-   ```bash
    pip install numpy pandas scikit-learn tensorflow imbalanced-learn matplotlib seaborn
    ```
 
